@@ -1,0 +1,23 @@
+.header{
+  font-size: x-large;
+  font-weight: bold;
+  margin-top: 1%;;
+  margin-left: 5%;
+  margin-bottom: 1%;
+}
+
+form {
+  margin-left: 5%;
+}
+
+.input{
+  width: 80vw;
+  height:5vh;
+}
+
+.btn{
+  background-color: purple;
+  color: wheat;
+  width:6vw;
+  height: 4vh;
+}

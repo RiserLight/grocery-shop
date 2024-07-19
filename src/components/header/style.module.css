@@ -1,0 +1,11 @@
+.header {
+  font-size:xx-large;
+  font-weight: bolder;
+  background-color: pink;
+  height: 12vh;
+  width: 100vw;
+  display: flex;               /* Enable Flexbox */
+  justify-content: center;     /* Center horizontally */
+  align-items: center;         /* Center vertically */
+  text-align: center;          /* Center text */
+}
